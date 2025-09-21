@@ -70,3 +70,8 @@ header a {
     color: #721c24;
     border: 1px solid #f5c6cb;
 }
+
+.link {
+    text-decoration: none;
+    color: var(--text-color);
+}
